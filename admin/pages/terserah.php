@@ -1,0 +1,2 @@
+<h1 class="page-header">Konfigurasi</h1>
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perspiciatis quae ullam unde, animi et! Voluptas obcaecati ratione optio, facere non. Maxime facilis minima dicta voluptate saepe eveniet error, reiciendis perspiciatis. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Porro amet, facere eum neque voluptate, quas ex temporibus facilis quidem mollitia eaque delectus, sed doloremque dolore. Voluptatem autem esse dolorem, adipisci?</p>

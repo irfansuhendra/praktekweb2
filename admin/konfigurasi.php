@@ -5,5 +5,4 @@ $konf = new KonfigurasiUI();
 
 $konf->tampilform();
 
-
  ?>

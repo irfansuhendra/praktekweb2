@@ -1,20 +1,25 @@
 <?php 
 
 require_once 'View.php';
-include 'model/Berita.php';
-class BerandaUI extends View
+/**
+* 
+*/
+class BeritaUI extends View
 {
 	
-	public function tampilTemplate()
+	public function tampilBerita()
 	{
 		include_once 'model/Berita.php';
+
 		$brt = new Berita();
+
 		$isi_berita = $brt->ambilBerita();
 
-		include_once 'pages/beranda.php';
-		
+		include_once 'pages/listberita.php';
 		$this->end();
 	}
 }
+
+
 
  ?>
